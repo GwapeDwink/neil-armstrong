@@ -1,3 +1,3 @@
 <?php
-echo 'this is the functions file.';
+echo 'This is the functions file!';
 ?>
